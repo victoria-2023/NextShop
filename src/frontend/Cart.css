@@ -1,0 +1,31 @@
+/* src/frontend/Cart.css */
+
+.cart-container {
+    padding: 20px;
+    text-align: center;
+    background-color: #F5F5F5;
+  }
+  
+  .cart-container h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .cart-container p {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  .cart-container button {
+    padding: 10px 20px;
+    background-color: #FFD700;
+    color: #444444;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .cart-container button:hover {
+    background-color: #FFB6C1;
+  }
+  
